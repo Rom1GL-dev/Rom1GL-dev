@@ -18,3 +18,7 @@ Passionate about web and mobile development, I enjoy building modern, high-perfo
 - Explore serverless solutions and DevOps  
 - Work on challenging and impactful projects  
 
+## 📂 Projects
+- https://romain-gilot.fr/ - Showcase website for my portfolio
+- https://terminal.romain-gilot.fr/ - Showcase website for my portfolio without a graphical user interface, accessed via a terminal
+- https://cours.yogiamelie.com/ - Showcase website for online yoga classes and spiritual retreats
