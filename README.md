@@ -8,7 +8,7 @@
 - **Front-end**: React.js, React Native, Next.js, TailwindCSS  
 - **Back-end**: NestJS, Node.js, Express.js  
 - **Databases**: MongoDB, PostgreSQL  
-- **Other**: REST API, GraphQL, Authentication (JWT, OAuth), WebSockets  
+- **Other**: REST API, GraphQL, Authentication (JWT, OAuth), WebSockets, Notion
 
 ## 🎯 About Me  
 Passionate about web and mobile development, I enjoy building modern, high-performance, and scalable applications. Constantly learning, I stay up to date with the latest technologies to provide innovative and efficient solutions.  
